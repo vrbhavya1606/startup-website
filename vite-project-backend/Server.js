@@ -9,7 +9,7 @@ const PORT = 5000;
 app.use(cors());
 app.use(bodyParser.json());
 
-mongoose.connect('mongodb+srv://vrbhavya1606:Bhavya123@cluster0.yflct.mongodb.net/',{
+mongoose.connect('mongodb+srv://vrbhavya1606:sudha24@cluster0.yflct.mongodb.net/',{
 useNewUrlParser: true,
 useUnifiedTopology: true,
 })
